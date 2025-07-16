@@ -1,0 +1,5 @@
+opencv-python
+pillow
+# tkinter is included with Python standard library on most systems
+streamlit
+streamlit-webrtc 
